@@ -1,0 +1,96 @@
+:root{
+
+    --bg-blue: #93B5C9 ;
+    --bg-wine: #AB2849
+    
+}
+    
+header{
+    
+    background-color: var(--bg-blue);
+    height: 100px
+    
+}
+    
+ .caja_1{
+    
+    background-color: var(--bg-wine);
+    height: 200px
+}
+
+.cajas{
+margin: 0px 25%
+}
+
+.caja_2{
+
+margin: 20px 0px;
+height: 120px;
+background-color: var(--bg-wine);
+
+}
+
+.caja_3{
+
+display: flex;
+margin: 20px 0px;
+height: 120px;
+}
+
+#caja_3{
+
+background-color: var(--bg-wine);
+width: 50%;
+margin-right: 2px;
+}
+
+#caja_3_1{
+
+width: 50%;
+background-color: var(--bg-wine);
+margin-left: 2px;
+
+}
+
+.caja_4{
+
+margin: 20px 0px;
+height: 120px;
+background-color: var(--bg-wine);
+
+}
+
+.caja_5{
+
+display: flex;
+margin: 10px 0px;
+height: 120px;
+
+}
+
+#caja_5{
+
+background-color: var(--bg-wine);
+width: 50%;
+margin-right: 2px;
+
+}
+
+#caja_5_1{
+
+width: 50%;
+background-color: var(--bg-wine);
+margin-left: 2px;
+
+}
+
+
+
+footer{
+    background-color: var(--bg-wine);
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+}

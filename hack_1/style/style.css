@@ -1,0 +1,44 @@
+:root{
+
+--bg-blue: #93B5C9 ;
+--bg-wine: #AB2849
+
+}
+
+header{
+
+background-color: var(--bg-blue);
+height: 100px;
+
+}
+
+.caja_1{
+
+background-color: var(--bg-wine);
+height: 200px;
+}
+
+.container{
+
+min-height: 100vh;
+
+}
+
+.cajas{
+margin-left: 30%;
+}
+
+#caja{
+
+background-color: var(--bg-wine);
+margin: 20px 0px;
+height: 120px;
+}
+
+footer{
+
+    background-color: var(--bg-wine);
+    height: 50px;
+    margin: 0px  20px
+ }
+
